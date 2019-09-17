@@ -1,1 +1,4 @@
 
+<Version: 16.09.2019>
+/data/Map002.json https://raw.githubusercontent.com/Judaszek2112/PatowixaRPG/master/Map003.json
+<end of version>
